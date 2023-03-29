@@ -1,0 +1,66 @@
+.icon-dashboard {
+    background-image: url('../src/assets/icon/Vector.png');
+    background-repeat: no-repeat;
+    width: 15px;
+    height: 15px;
+    background-position: center center;
+  }
+  
+  .icon-approval {
+    background-image: url('../src/assets/icon/Vector3.png');
+    background-repeat: no-repeat;
+    width: 15px;
+    height: 15px;
+    background-position: center center;
+  }
+
+  .icon-myclient {
+    background-image: url('../src/assets/icon/myclient.png');
+    background-repeat: no-repeat;
+    width: 15px;
+    height: 15px;
+    background-position: center center;
+  }
+
+  .icon-setting {
+    background-image: url('../src/assets/icon/setting.png');
+    background-repeat: no-repeat;
+    width: 15px;
+    height: 15px;
+    background-position: center center;
+  }
+  .icon-plus {
+    background-image: url('../src/assets/icon/plus_icon.png');
+    background-repeat: no-repeat;
+    width: 15px;
+    height: 15px;
+    background-position: center center;
+  }
+  .icon-search {
+    background-image: url('../src/assets/icon/searchicon.png');
+    background-repeat: no-repeat;
+    width: 18px;
+    height: 18px;
+    background-position: center center;
+  }
+  .icon-logout {
+    background-image: url('../src/assets/icon/logout.png');
+    background-repeat: no-repeat;
+    width: 16;
+    height: 15;
+    background-position: center center;
+  }
+  .icon-menus {
+    background-image: url('../src/assets/icon/menus.png');
+    background-repeat: no-repeat;
+    width: 25;
+    height: 20;
+    background-position: center center;
+  }
+  .icon-carbonmenus {
+    background-image: url('../src/assets/icon/carbonMenu.png');
+    background-repeat: no-repeat;
+    width: 21;
+    height: 21;
+    background-position: center center;
+  }
